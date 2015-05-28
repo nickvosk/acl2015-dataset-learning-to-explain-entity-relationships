@@ -10,7 +10,7 @@ The file `ACL2015-dataset.csv` contains the annotated sentences and it has the f
 
 - `Entity2URL` the url of entity2
 
-- `Relationship` The automatically produced relatioship between the two entities, with the form [Entity1Type, Relationship, Entity2Type].
+- `Relationship` The automatically produced relationship between the two entities, with the form [Entity1Type, Relationship, Entity2Type].
 
 - `Relevance` The relevance judgement for the sentence with respect to the two entities and the relationship. We use a five-level graded relevance scale (perfect, excellent, good, fair, bad). The annotators also marked sentences that did not fit in that scale because of different issues (wrong entities, same entities/different relationship, wrong relationship, other). In our experiments we treated all the sentences with such issues as bad sentences.
 
