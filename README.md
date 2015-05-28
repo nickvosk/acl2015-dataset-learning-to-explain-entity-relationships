@@ -1,4 +1,4 @@
-# Dataset for ACL 2015 paper
+# ACL 2015 paper dataset
 
 This repository contains the ataset for the ACL 2015 paper "Learning to Explain Entity Relationships in Knowledge Graphs" by Nikos Voskarides, Edgar Meij, Manos Tsagkias, Maarten de Rijke and Wouter Weerkamp.
 
